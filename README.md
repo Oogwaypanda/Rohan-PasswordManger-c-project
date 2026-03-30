@@ -3,7 +3,8 @@
 
 This is a simple c++ project for managing password secuerly
 
-##Features
+## Features:-
+
 * Add secure password storage
 * User friendly command line interface
 * Efficient password retrival
