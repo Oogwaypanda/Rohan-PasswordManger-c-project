@@ -1,5 +1,5 @@
 # CPP-Projects Using c++
- **Rohan-Password Manager**
+ **Rohan-Password Manager-project**
 
 This is a simple c++ project for managing password secuerly
 
